@@ -1,5 +1,5 @@
 ### @will-s-h
-Computer Scientist/Physicist at Stanford University. For more information, visit [will-s-h.github.io](https://will-s-h.github.io/).
+Computer Scientist/Physicist at Stanford University. For more information, visit [willhuang.me](https://willhuang.me).
 
 <!--
 **will-s-h/will-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
